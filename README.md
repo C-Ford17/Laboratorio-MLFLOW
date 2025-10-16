@@ -28,3 +28,5 @@ openai
 google-generativeai
 dotenv
 os
+
+📄 **[Ver informe completo](informe.md)**
