@@ -23,5 +23,8 @@ Se implementó el ciclo completo de *Machine Learning Operations (MLOps)*, inclu
 mlflow==2.17.0
 PyYAML==6.0.2
 scikit-learn
-pandas
-numpy
+ollama
+openai
+google-generativeai
+dotenv
+os
