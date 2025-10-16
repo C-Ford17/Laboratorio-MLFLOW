@@ -18,6 +18,8 @@ Se implementó el ciclo completo de *Machine Learning Operations (MLOps)*, inclu
 - pip >= 23  
 - Virtualenv (opcional)
 
+📄 **[Ver informe completo](informe.md)**
+
 ### 📦 Librerías utilizadas
 ```bash
 mlflow==2.17.0
@@ -28,5 +30,3 @@ openai
 google-generativeai
 dotenv
 os
-
-📄 **[Ver informe completo](informe.md)**
